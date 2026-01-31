@@ -74,8 +74,8 @@ function Login() {
           )}
         </button>
         <div className="flex">
-          <span className="ml-45 mt-2 ">
-            <Link to="/register">Create account</Link>
+          <span className="ml-30 mt-2 ">
+            <Link to="/register">Pas de compte? Créez-en un</Link>
           </span>
         </div>
       </fieldset>
