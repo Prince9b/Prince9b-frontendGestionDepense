@@ -33,7 +33,7 @@ function Register() {
   return (
     <div className="flex items-center justify-center ">
       <fieldset className="fieldset bg-base-200 border-base-300 rounded-box w-xs border p-4 md:mt-30 mt-50">
-        <legend className="fieldset-legend">Register please</legend>
+        <legend className="fieldset-legend">Enregistrez-vous</legend>
 
         <label className="label">Nom d'utilisateur</label>
         <input
